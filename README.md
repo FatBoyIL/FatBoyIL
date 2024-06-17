@@ -1,33 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jack Nguyen
-===================================================================================================================================
+<h1 align="center">Hi 👋, I'm Jack Nguyen</h1>
+<h1 align="center">
+    
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=35&pause=1000&color=D0B49F&background=FFFFFF00&center=true&vCenter=true&random=false&width=450&height=70&duration=4000&lines=I'm+Backend+Developer;+Spring+DotNet+React;+Don't+Leave;+Please+take+a+seat;+And+Enjoy+My+World;" alt="Typing SVG" /></a>
+</h1>
+ <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG95cmdnbGNsOXBuZnkyM3FxcHJ4ZWJudWNua3k3eTRweW00a212biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/687qS11pXwjCM/giphy.gif" width="300" height="350" alt="Coding GIF"><br>
+ 
+"I love coffee ☕, especially when I'm coding. I enjoy the taste of a latte, maybe two cups, with a hint of bitterness fixing it with a bit of 'sugar' 😘. Exploring new technologies feels like a Bailey's coffee — it gives me a buzz 😒, but keeps me sharp and confident 😎"
 
-Backend Developer : Spring , .Net , ReactJS
--------------------------------------------
-
-"I love coffee ☕, especially when I'm coding. I enjoy the taste of a latte , maybe two cups, with a hint of bitterness fixing it with a bit of "sugar" 😘. Exploring new technologies feels like a Bailey's coffee — it gives me a buzz 😒, but keeps me sharp and confident 😎"
-
-* 🌍  I'm based in Viet Nam Ho Chi Minh Quan 8
-* ✉️  You can contact me at [huynguyenhonggia2703@gmail.com](mailto:huynguyenhonggia2703@gmail.com)
-* 🧠  I'm learning Microservice, Spring Ai
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/dahyyycute" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/FatBoyIL" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/dahyyyy_2703" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nguyen-jack-136b20312/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/21285230/nguyen-jack" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/FatBoyIL"><img src="https://github-readme-stats.vercel.app/api?username=FatBoyIL&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="FatBoyIL's GitHub stats" /></a>
-
-<a href="http://www.github.com/FatBoyIL"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FatBoyIL&stroke=ffffff&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/FatBoyIL" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatBoyIL&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+* 🌍  I'm live in Viet Nam Ho Chi Minh Quan 8
+* ✉️  You can contact me at [huynguyenhonggia2703@gmail.com](mailto:huynguyenhonggia2703@gmail.com)
+* 🧠  I'm learning Microservice, Spring Ai
+* ⚡ Fun fact: "I'm dev but love coffee and DD games 🤭"
+<h3 align="left">Languages & FrameWork</h3>
+    <img src="https://skillicons.dev/icons?i=java,cs,typescript,javascript" />
+    <img align="left" src="https://skillicons.dev/icons?i=spring,dotnet,react" /><br>
+<h3 align="left">Databases</h3>
+    <img align="left"src="https://skillicons.dev/icons?i=postgres,mysql" /><br>
+<h3 align="left">Others</h3>
+    <img align="left" src="https://skillicons.dev/icons?i=idea,eclipse,vscode,docker,redis,tailwind,redux,git"/><br><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatBoyIL)](https://github.com/FatBoyIL/github-readme-stats)
