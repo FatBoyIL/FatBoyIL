@@ -3,7 +3,7 @@
     
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=35&pause=1000&color=A47551&background=FFFFFF00&center=true&vCenter=true&random=false&width=450&height=70&duration=4000&lines=I'm+Backend+Developer;+Spring+DotNet+React;+Don't+Leave;+Please+take+a+seat;+And+Enjoy+My+World;" alt="Typing SVG" /></a>
 </h1>
- <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG95cmdnbGNsOXBuZnkyM3FxcHJ4ZWJudWNua3k3eTRweW00a212biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/687qS11pXwjCM/giphy.gif" width="500" height="600" alt="Coding GIF"><br>
+ <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG95cmdnbGNsOXBuZnkyM3FxcHJ4ZWJudWNua3k3eTRweW00a212biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/687qS11pXwjCM/giphy.gif" width="450" height="550" alt="Coding GIF"><br>
  
 "I love coffee ☕, especially when I'm coding. I enjoy the taste of a latte, maybe two cups, with a hint of bitterness fixing it with a bit of 'sugar' 😘. Exploring new technologies feels like a Bailey's coffee — it gives me a buzz 😒, but keeps me sharp and confident 😎"
 
