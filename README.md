@@ -9,27 +9,17 @@
 
 * 🌍  I'm live in Viet Nam Ho Chi Minh Quan 8
 * ✉️  You can contact me at [huynguyenhonggia2703@gmail.com](mailto:huynguyenhonggia2703@gmail.com)
-* 🧠  I'm learning Microservice, Spring Ai
+* 🧠  I'm learning Kotlin, SpringBoot and Java
 * ⚡ Fun fact: "I'm dev but love coffee and DD games 🤭"
 <h3 align="left"> 🛠️ Languages & FrameWork 🛠️</h3>
-    <img src="https://skillicons.dev/icons?i=java,cs,typescript,javascript" />
-    <img align="left" src="https://skillicons.dev/icons?i=spring,dotnet,react" /><br><br>
+    <img align="left" src="https://skillicons.dev/icons?i=spring,kotlin" /><br><br>
 <h3 align="left">🧰 Databases 🧰</h3>
     <img align="left"src="https://skillicons.dev/icons?i=postgres,mysql" /><br><br>
 <h3 align="left">📖 Others 📖</h3>
-    <img align="left" src="https://skillicons.dev/icons?i=idea,eclipse,vscode,docker,redis,tailwind,redux,git"/><br><br><br><br><br><br>
+    <img align="left" src="https://skillicons.dev/icons?i=idea,eclipse,vscode,docker,redis,tailwind,git"/><br><br><br><br><br><br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=FatBoyIL&theme=ambient_gradient&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=FatBoyIL&show_icons=true&theme=ambient_gradient&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatBoyIL&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=E983D8&text_color=000000&icon_color=61dafb&theme=ambient_gradient&bg_color=EFEBE0&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
