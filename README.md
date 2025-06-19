@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack Nguyen</h1>
 <h1 align="center">
     
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=35&pause=1000&color=A47551&background=FFFFFF00&center=true&vCenter=true&random=false&width=450&height=70&duration=4000&lines=I'm+A+Nerd+Developer;+Spring+Kotlin+Java+React Native;+Don't+Leave;+Please+take+a+seat;+And+Enjoy+My+World;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=35&pause=1000&color=A47551&background=FFFFFF00&center=true&vCenter=true&random=false&width=450&height=70&duration=4000&lines=I'm+A+Nerd+Developer;+Spring+Kotlin+Java+React+Native;+Don't+Leave;+Please+take+a+seat;+And+Enjoy+My+World;" alt="Typing SVG" /></a>
 </h1>
  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG95cmdnbGNsOXBuZnkyM3FxcHJ4ZWJudWNua3k3eTRweW00a212biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/687qS11pXwjCM/giphy.gif" width="450" height="550" alt="Coding GIF"><br>
  
