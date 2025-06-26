@@ -8,7 +8,7 @@
 "I love coffee ☕, especially when I'm coding. I enjoy the taste of a latte, maybe two cups, with a hint of bitterness fixing it with a bit of 'sugar' 😘. Exploring new technologies feels like a Bailey's coffee — it gives me a buzz 😒, but keeps me sharp and confident 😎"
 
 * 🌍  I'm live in Viet Nam Ho Chi Minh Quan 8
-* ✉️  You can contact me at [huynguyenhonggia2703@gmail.com](mailto:huynguyenhonggia2703@gmail.com)
+* ✉️  You can contact me at [giahuyw02@gmail.com](mailto:giahuyw02@gmail.com)
 * 🧠  I'm learning Kotlin, SpringBoot and React Native
 * ⚡ Fun fact: "I'm dev but love coffee and DD games 🤭"
 <h3 align="left"> 🛠️ Languages & FrameWork 🛠️</h3>
